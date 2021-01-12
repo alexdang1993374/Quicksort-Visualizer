@@ -2,7 +2,7 @@
 <img  src="./quick.PNG" alt="demo">
 
 <h1 id="intro">Introduction</h1>
-This is an animated visualization of the quicksort algorithim made using the D3 library.
+This is an animated visualization of the quicksort algorithm made using the D3 library.
 
 ## To start the app:
 
